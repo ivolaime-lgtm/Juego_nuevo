@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: NAME
+Version: 0.1
+Summary: desarrollo
+Home-page: URL to get it at
+Download-URL: Where to download it.
+Author: Ivo
+Author-email: ivolaime@gmail.com
+Requires-Dist: pytest
+Dynamic: author
+Dynamic: author-email
+Dynamic: download-url
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary

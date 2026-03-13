@@ -1,0 +1,9 @@
+setup.py
+NAME/__init__.py
+NAME/game.py
+NAME.egg-info/PKG-INFO
+NAME.egg-info/SOURCES.txt
+NAME.egg-info/dependency_links.txt
+NAME.egg-info/requires.txt
+NAME.egg-info/top_level.txt
+tests/test_basic.py
